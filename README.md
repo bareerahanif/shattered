@@ -2,7 +2,9 @@
 
 > *The colors were not rewards. They were the pieces of a self, scattered across a fractured physics.*
 
-A 2D platformer built for **SOFTEC '26 Game Jam** — Theme: **Broken Physics**
+A 2D platformer built for **SOFTEC '26 Game Jam** 
+Team: **Team Potatoes**
+Theme: **Broken Physics**
 
 ---
 
