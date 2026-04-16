@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelComplete : MonoBehaviour
 {
-    public int levelNumber; // set this in the Inspector — 1, 2, 3, or 4
+    public int levelNumber; // set this in the Inspector â€” 1, 2, 3, or 4
 
     public void CompleteLevel()
     {
