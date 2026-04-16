@@ -31,7 +31,7 @@ public class ButtonScaleEffect : MonoBehaviour, IPointerDownHandler, IPointerUpH
         ScaleTo(originalScale);
     }
 
-    // Called if the cursor leaves the button while held — snaps back so it doesn't get stuck
+    // Called if the cursor leaves the button while held â€” snaps back so it doesn't get stuck
     public void OnPointerExit(PointerEventData eventData)
     {
         ScaleTo(originalScale);
